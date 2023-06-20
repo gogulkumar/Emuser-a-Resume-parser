@@ -1,0 +1,288 @@
+ID,Resume_str,Resume_html,Category
+16852973,"EDUCATION Northeastern University, College of Engineering, Boston, Massachusetts                                                                               May 2023 
+
+Candidate for Masters in Data Analytics Engineering                                                                                                       GPA  3.89/4.0 • Courses: Foundation in Data Analytics, Natural Language Processing, Computation and Data Visualization, Machine Learning 
+Anna University, Chennai, India                                                                                                                                    May 2019 
+Bachelor of Engineering in Computer Science and Engineering                                                                                       GPA  7.17/10 WORK EXPERIENCE 
+
+Cerevel Therapeutics, Boston, MA                                                                                                                   Jul 2022 -Dec 2022 
+Biomedical Data Scientist 
+•  Curated Drug related Observational Data of different Species into a Data Warehouse using MySQL. Projected clinical parameters into R shiny Dashboards to perform biological data analysis 
+•  Developed a Natural Language Processing model to precisely classify Clinical terms, Drug information from Patient Narratives.     
+Packages such as Spacy, Stanford-NLP, NLTK facilitated to segregate Part of speech from text; SciSpacy to identify relevant CUI’s; MuSigma Business Solutions                                                                                                                  Nov 2019 - July 2021 
+Decision Scientist 
+•  Drove Team for a Retail’s continuous growth through designing and forecasting stock Demand with Time Series Models (ARIMA, SARIMAX, Holt-Winters), forecasting client’s retail procurement for next 6 months, including external uncertain conditions 
+•  Generated 10% year-over-year growth and enhanced efficiencies by 16% through integrating advanced classification ML algorithms via Python (SVM, Random Forest) and segmenting diverse airline industry customers for better travel recommendations 
+•  Migrated data (ETL) from data lake, data warehousing with respect to data architecture in SQL by Amazon Redshift and orchestrated using Jenkins’s pipeline; Functioned as scrum master to track progress of project in Jira board 
+•  Developed a scalable framework with reporting metrics to demonstrate client compliance related to Motor claims to handle Customers facing Financial Hardship (FH); Revamped back-end infrastructure of Motor claims reporting using MySQL and developed real-time data visualization dashboards in Tableau to boost operational efficiency by 8-10% 
+SKILLS 
+
+Programming Language: Python, R                 Database Languages: MySQL, NoSQL, Neo4j Cypher, Hive, Hadoop, Spark SQL        
+ Data Visualization: Tableau, Microsoft PowerBi, Google Sites.         Statistics : Hypothesis Testing, t-test, ANOVA, Chi-Square test 
+Methodology: Machine Learning, Deep Learning, Time series Analysis, SVM, Logistic Regression 
+Google Cloud : Google Analytics(certified), Google BigQuery and VertexAI,  Google Cloud DataStudio, Google Cloud DataFlow    
+PROJECTS  
+
+Data Engineering and Data Analysis 
+Recovery of Restaurant Reservation in USA                                                                                                                      Mar 2022 
+• Developed interactive Tableau dashboard by reviewing U.S Restaurant Reservation data and identified chart-topping States and Cities from 2019 to 2022 and visualize it’s recovery patterns from covid 2019 (Subject Areas : Data visualization)  
+Agricultural Trends and it’s impact around the world                                                                                                    Jan 2022 
+• Examined various patterns and trends in agricultural and livestock production between the years 2014 and 2019; precise segments on how much fertilizer and pesticides are consumed by these agricultural productions; This project is built using Data wrapper, Flourish, Tableau and incorporated them in Google sites                                         
+Shopify Sneaker Data Analysis(Challenge)                                                                                                                May 2022 
+• Reviewed Sneaker data to discover best statistic (Average/Median) for evaluating OrderAmount of 100 Shopify store on Item total • Identified outliers, Anomalous order amount and analyzed purchase behavior of sneaker shops via bar graph in Python 
+Machine Learning and Prediction 
+Phishing Message Detection (TechGig Machine Learning Challenge)                                                             April 2022 - June 2022 
+• Spearheaded a team of 3 and designed a ML algorithm to phishing message detection implementing Support Vector Machine(SVM); Attained a accuracy score of 99% with recall value of phishing detection to be 1.00   
+Portuguese Bank Subscription Prediction                                                                                                     Jan 2022 - May-2022 
+•  Lead a Team of 3, built various Machine Learning models to predict whether Customer subscribe to Bank’s subscription based on previous customer behavior 
+•  Implemented SMOTE to treat imbalance dataset and invigorated model prediction by PCA feature extraction and RFE feature selection method to attain 99% accuracy and 99% recall value with Custom SVM algorithm   (Areas: Machine Learning) 
+Face Mask Detection on Convolution Neural Network (CNN)                                                                                        March 2020 
+•  Built convolution neural network single handedly to detect a facial mask to recognize unmasked people at doorstep during covid pandemic situation; Executed MobileNet model, trained on ImageNet Dataset, to precisely locate facial bounding boxes 
+•  Trained Neural Network with 3 hidden layer under mask/non-mask dataset for 20 epochs with accuracy of 95%
+","<div class=""fontsize fontface vmargins hmargins linespacing pagesize"" id=""document""> <div class=""section firstsection"" id=""SECTION_NAME500375979"" style=""
+      padding-top:0px;
+    ""> <div class=""paragraph PARAGRAPH_NAME firstparagraph"" id=""PARAGRAPH_500375979_1_326506904"" style=""
+      padding-top:0px;
+    ""> <div class=""name"" itemprop=""name""> <span class=""field fName"" id=""500375979FNAM1""> </span> <span> </span> <span class=""field"" id=""500375979LNAM1""> HR ADMINISTRATOR/MARKETING ASSOCIATE
+
+HR ADMINISTRATOR</span> </div> </div> </div> <div class=""section"" id=""SECTION_SUMM500375981"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_SUMM500375981""> Summary</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500375981_1_326506917"" style=""
+      padding-top:0px;
+    ""> <div class=""field singlecolumn"" id=""500375981FRFM1""> <p align=""LEFT""> Dedicated Customer Service Manager with 15+ years of experience in Hospitality and Customer Service Management. </p> <p align=""LEFT""> Respected builder and leader of customer-focused teams; strives to instill a shared, enthusiastic commitment to customer service.  </p> </div> </div> </div> <div class=""section"" id=""SECTION_HILT500375982"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_HILT500375982""> Highlights</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500375982_1_326509244"" style=""
+      padding-top:0px;
+    ""> <div class=""singlecolumn maincolumn""> <table class=""twocol""> <tbody> <tr> <td class=""field twocol_1"" id=""500375982SKC11""> <p align=""CENTER""> Focused on customer satisfaction</p> <p align=""CENTER""> Team management</p> <p align=""CENTER""> Marketing savvy</p> <p align=""CENTER""> Conflict resolution techniques</p> <br/> </td> <td class=""field twocol_2"" id=""500375982SKC21""> <p align=""CENTER""> Training and development</p> <p align=""CENTER""> Skilled multi-tasker</p> <p align=""CENTER""> Client relations specialist</p> </td> </tr> </tbody> </table> </div> </div> </div> <div class=""section"" id=""SECTION_ACCM500375993"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_ACCM500375993""> Accomplishments</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500375993_1_326506914"" style=""
+      padding-top:0px;
+    ""> <div class=""field singlecolumn"" id=""500375993FRFM1""> <ul> <li> Missouri DOT Supervisor Training Certification</li> <li> Certified by IHG in Customer Loyalty and Marketing by Segment </li> <li> Hilton Worldwide General Manager Training Certification</li> <li> Accomplished Trainer for cross server hospitality systems such as  <b> <u> Hilton OnQ</u> </b> ,  <u> Micros </u> <b> <u> Opera PMS</u> </b> <u> , Fidelio </u> <b> <u> OPERA</u> </b> <u>  Reservation System (ORS)</u> , <b> <u> Holidex</u> </b> </li> <li> Completed courses and seminars in customer service, sales strategies, inventory control, loss prevention, safety, time management, leadership and performance assessment.</li> </ul> </div> </div> </div> <div class=""section"" id=""SECTION_EXPR500375983"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_EXPR500375983""> Experience</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500375983_1_326506906"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:0px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT1""> HR Administrator/Marketing Associate
+
+HR Administrator</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD1""> Dec 2013</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT1""> Current</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP1"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT1"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA1"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES1"" itemprop=""description""> <ul> <li> Helps to develop policies, directs and coordinates activities such as employment, compensation, labor relations, benefits, training, and employee services.</li> <li> Prepares employee separation notices and related documentation</li> <li> Keeps records of benefits plans participation such as insurance and pension plan, personnel transactions such as hires, promotions, transfers, performance reviews, and terminations, and employee statistics for government reporting.</li> <li> Advises management in appropriate resolution of employee relations issues.</li> <li> Administers benefits programs such as life, health, dental, insurance, pension plans, vacation, sick leave, leave of absence, and employee assistance.</li> </ul> <br/> <p align=""LEFT""> <b> Marketing Associate</b> آ </p> <ul> <li> Designed and created marketing collateral for sales meetings, trade shows and company executives.</li> <li> Managed the in-house advertising program consisting of print and media collateral pieces.</li> <li> Assisted in the complete design and launch of the company's website in 2 months.</li> <li> Created an official company page on Facebook to facilitate interaction with customers.</li> <li> Analyzed ratings and programming features of competitors to evaluate the effectiveness of marketing strategies.</li> </ul> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_2_326506907"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:10px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT2""> Advanced Medical Claims Analyst</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD2""> Mar 2012</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT2""> Dec 2013</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP2"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT2"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA2"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES2"" itemprop=""description""> <ul> <li> Reviewed medical bills for the accuracy of the treatments, tests, and hospital stays prior to sanctioning the claims.</li> <li> Trained to interpret the codes (ICD-9, CPT) and terminology commonly used in medical billing to fully understand the paperwork that is submitted by healthcare providers.</li> <li> Required to have organizational and analytical skills as well as computer skills, knowledge of medical terminology and procedures, statistics, billing standards, data analysis and laws regarding medical billing.</li> </ul> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_3_326506908"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:15px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT3""> Assistant General Manager</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD3""> Jun 2010</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT3""> Dec 2010</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP3"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT3"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA3"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES3"" itemprop=""description""> <ul> <li> Performed duties including but not limited to, budgeting and financial management, accounting, human resources, payroll and purchasing.</li> <li> Established and maintained close working relationships with all departments of the hotel to ensure maximum operation, productivity, morale and guest service.</li> <li> Handled daily operations and reported directly to the corporate office.</li> <li> Hired and trained staff on overall objectives and goals with an emphasis on high customer service.</li> <li> Marketing and Advertising, working on public relations with the media, government and local businesses and Chamber of Commerce.</li> </ul> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_4_326506910"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:5px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT4""> Executive Support / Marketing Assistant</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD4""> Jul 2007</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT4""> Jun 2010</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP4"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT4"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA4"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES4"" itemprop=""description""> <ul> <li> Provided assistance to various department heads - Executive, Marketing, Customer Service, Human Resources.</li> <li> Managed front-end operations to ensure friendly and efficient transactions.</li> <li> Ensured the swift resolution of customer issues to preserve customer loyalty while complying with company policies.</li> <li> Exemplified the second-to-none customer service delivery in all interactions with customers and potential clients.</li> </ul> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_5_326506911"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:10px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT5""> Reservation &amp; Front Office Manager</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD5""> Jun 2004</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT5""> Jul 2007</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP5"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT5"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA5"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES5"" itemprop=""description""> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_6_326506912"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:10px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT6""> Owner/ Partner</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD6""> Dec 2001</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT6""> May 2004</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP6"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT6"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA6"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES6"" itemprop=""description""> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500375983_7_326506913"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""
+      padding-top:10px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""500375983JTIT7""> Price Integrity Coordinator</span> <span> </span> <span class=""datesWrapper""> <span class=""jobdates"" format=""%b %Y"" id=""500375983JSTD7""> Aug 1999</span> <span>  to </span> <span class=""jobdates"" format=""%b %Y"" id=""500375983EDDT7""> Dec 2001</span> <br/> </span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""500375983COMP7"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500375983JCIT7"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500375983JSTA7"" itemprop=""addressRegion""> State</span> </span> <span class=""jobline"" id=""500375983JDES7"" itemprop=""description""> </span> </div> </div> </div> <div class=""section"" id=""SECTION_EDUC500400498"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_EDUC500400498""> Education</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500400498_1_326523310"" itemscope="""" itemtype=""https://schema.org/EducationalOrganization"" style=""
+      padding-top:0px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline"" itemprop=""description""> <span class=""degree"" id=""500400498DGRE1"" itemprop=""name""> N/A</span> <span> , </span> <span class=""programline"" id=""500400498STUY1""> Business Administration</span> <span class=""datesWrapper""> <span class=""jobdates"" id=""500400498GRYR1""> 1999</span> </span> </span> <span class=""paddedline""> <span class=""companyname companyname_educ"" id=""500400498SCHO1"" itemprop=""name""> Jefferson College</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500400498SCIT1""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500400498SSTA1""> State</span> <span class=""joblocation jobstate"" id=""500400498SCNT1""> </span> </span> <span class=""field"" id=""500400498FRFM1""> <ul> <li> Business Administration</li> <li> Marketing / Advertising</li> </ul> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_500400498_2_326522471"" itemscope="""" itemtype=""https://schema.org/EducationalOrganization"" style=""
+      padding-top:0px;
+    ""> <div class=""singlecolumn""> <span class=""paddedline"" itemprop=""description""> <span class=""degree"" id=""500400498DGRE2"" itemprop=""name""> High School Diploma</span> <span> , </span> <span class=""programline"" id=""500400498STUY2""> College Prep. studies</span> <span class=""datesWrapper""> <span class=""jobdates"" id=""500400498GRYR2""> 1998</span> </span> </span> <span class=""paddedline""> <span class=""companyname companyname_educ"" id=""500400498SCHO2"" itemprop=""name""> Sainte Genevieve Senior High</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""500400498SCIT2""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""500400498SSTA2""> State</span> <span class=""joblocation jobstate"" id=""500400498SCNT2""> </span> </span> <span class=""field"" id=""500400498FRFM2""> <ul> <li> Awarded American Shrubel Leadership Scholarship to Jefferson College</li> </ul> </span> </div> </div> </div> <div class=""section"" id=""SECTION_SKLL500375994"" style=""
+      padding-top:0px;
+    ""> <div class=""heading bottomborder""> <div class=""sectiontitle"" id=""SECTNAME_SKLL500375994""> Skills</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_500375994_1_326506918"" style=""
+      padding-top:0px;
+    ""> <div class=""field singlecolumn"" id=""500375994FRFM1""> <p align=""LEFT""> Accounting, ads, advertising, analytical skills, benefits, billing, budgeting, clients, Customer Service, data analysis, delivery, documentation, employee relations, financial management, government relations, Human Resources, insurance, labor relations, layout, Marketing, marketing collateral, medical billing, medical terminology, office, organizational, payroll, performance reviews, personnel, policies, posters, presentations, public relations, purchasing, reporting, statistics, website.</p> </div> </div> </div> </div>",HR
+22323967,"RAJ ASWAT MAHESH
+959-282-6706 | mahesh.ra@northeastern.edu | www.linkedin.com/in/raj-aswat-m | Boston, MA EDUCATION
+Northeastern University (College of Engineering) - Boston, MA
+May 2023
+Candidate for Master of Science in Data Analytics Engineering
+GPA â€“ 3.7
+/4.00
+Coursework: Probability and Statistics, Data Visualization, Data Mining, Machine Learning, Python for Data Science Anna University (St. Josephâ€™s College of Engineering) - Chennai, India Sept 2020
+Bachelor of Engineering in Computer Science and Engineering
+GPA â€“ 3.02/4 .00
+Coursework: Design and Analysis of Algorithms, Database Management Systems, Programming and Data Structures SKILLS
+Languages/Frameworks known
+Python, R, SQL, GGplot2, Dplyr, Flask, Scikit-learn, Javascript, JQuery, React.Js Databases worked with
+Google BigQuery, MySQL, MongoDB, DynamoDB
+Platforms worked with
+Google Data Studio, Jupyter Notebook, AWSCloudWatch, Tableau, RStudio PROFESSIONAL EXPERIENCE
+Advanced Analytics Co-op
+Jul 2022 â€“ Dec 2022
+Wayfair
+Boston, MA
+â€¢ Built opportunity sizing analysis for metadata consolidation for ~211M Image Assets to reduce display health and reporting issues for Storefront Logic by improving coverage from 62% to 85%
+â€¢ Analyzed the delta in metadata fields for Assets in Wayfair Asset Management (WAM) to decouple image characteristics to allow increased granularity of classification by redefining the metadata fields for Single Source of Truth (SCoT)
+â€¢ Built a dashboard for Tagging Automation by defining metrics to improve coverage and GRS% due to incorrect tags
+â€¢ Partnered with stakeholders across various STOâ€™s with clickstream analysis to provide actionable insights and executed PM-led pilots for proposed feature releases
+Software Engineer
+Oct 2020 â€“ Jul 2021
+Freshworks
+Chennai, TN
+â€¢ Revamped and optimized load time of African Bank's app's configuration page from 9 minutes to 8 seconds, resulting in a 98.3% improvement in page loading
+â€¢ Spearheaded to build an integration across Eliva's in house customer management system adopting React.Js to improve agentsâ€™ productivity by 40%
+â€¢ Communicated with various customers and developed multiple public and custom apps across multiple Freshworks products utilizing Freshworks Development Kit with Node.JS, DynamoDB, and Javascript PROJECTS
+Resident Assistant Schedule Generator
+Jan 2023
+â€¢ Designed and developed a web-based schedule generator for RAs monitored by Directors in a dormitory setting
+â€¢ Utilized React and Python to create a user-friendly interface for RAs to input their availability and preferences
+â€¢ Integrated with Google Calendar API to allow for seamless schedule updates and notifications
+â€¢ Reduced the schedule generation time from 2 days to 20 minutes by automating schedule generation for RAs Prediction of Success of Bank Campaigns
+Mar 2022
+â€¢ Restructured the imbalance in data using SMOTE to sample data and used RFE for relevant feature selection
+â€¢ Constructed various classification models to identify performance across models for each encoding method
+â€¢ Extracted top performing model with 95.33% accuracy and analyzed top 5 features contributing to campaignâ€™s success CERTIFICATIONS
+Applied Text Mining in Python (Coursera)
+Aug 2022
+Introduction to Machine Learning in Production, (DeepLearning.AI)
+Jun 2022
+SQL for Data Science, (Coursera)
+May 2022
+Python Software Programmer, (Infosys)
+Aug 2019
+ACTIVITIES
+Winner of LevelUp Coding Challenge (Computer Science - All US Level) Ap r
+20
+22
+â€¢ Won national level Coding Challenge in Computer Science (Data Structures) with over 4000 participants across US
+Runner-up in Virtual Hackathon (Freshworks)
+Jun 2021
+â€¢ Developed Expense Tracker (FreshBills) to eliminate companyâ€™s reliance on third party expense management tool Winner of NeuralHack Hackathon (Data Science - All India Level) No
+v
+2
+0
+19
+â€¢ Won national level hackathon in Data Science inclusive of 3 qualifying rounds with 70,000 participants across India","<div class=""fontsize fontface vmargins hmargins linespacing pagesize"" id=""document""> <div class=""section firstsection"" id=""SECTION_NAME911808366"" style=""padding-top:0px;""> <div class=""paragraph PARAGRAPH_NAME firstparagraph"" id=""PARAGRAPH_911808366_1_598530989"" style=""padding-top:0px;""> <div class=""name thinbottomborder"" itemprop=""name""> <span class=""field fName"" id=""911808366FNAM1""> </span> <span> </span> <span class=""field"" id=""911808366LNAM1""> HR SPECIALIST, US HR OPERATIONS</span> </div> </div> </div> <div class=""section"" id=""SECTION_SUMM911808372"" style=""padding-top:0px;""> <div class=""heading""> <div class=""sectiontitle"" id=""SECTNAME_SUMM911808372""> Summary</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_911808372_1_598532134"" style=""padding-top:0px;""> <div class=""field singlecolumn noPind"" id=""911808372FRFM1""> <span class=""""> Versatile <font color=""#000"" style=""color: rgb(0, 0, 0);""> media professional with background in Communications, Marketing, Human Resources and Technology.آ </font> </span> </div> </div> </div> <div class=""section"" id=""SECTION_EXPR911808368"" style=""padding-top:0px;""> <div class=""heading""> <div class=""sectiontitle"" id=""SECTNAME_EXPR911808368""> Experience</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_911808368_1_598530991"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" format=""%m/%Y"" id=""911808368JSTD1""> 09/2015</span> <span>  to </span> <span class=""jobdates"" format=""%m/%Y"" id=""911808368EDDT1""> Current</span> </span> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""911808368JTIT1""> HR Specialist, US HR Operations</span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""911808368COMP1"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808368JCIT1"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808368JSTA1"" itemprop=""addressRegion""> State</span> </span> <span class=""paddedline""> <span class=""jobline"" id=""911808368JDES1"" itemprop=""description""> <ul> <li> <span class=""""> Managed communication regarding launch of Operations group, policy changes and system outages</span> </li> <li> <span class=""""> <span class=""""> <span class=""""> Designed standard work and job aids to create comprehensive training program for new employees and contractors</span> </span> </span> </li> <li> <span class=""""> <span class=""""> <span class=""""> <span class=""""> Audited job postings for old, pending, on-hold and draft positions.</span> </span> </span> </span> </li> <li> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> Audited union hourly, non-union hourly and salary background checks and drug screens</span> </span> </span> </span> </span> </li> <li> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> Conducted monthly new hire benefits briefing to new employees across all business units</span> </span> </span> </span> </span> </span> </li> <li> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> <span class=""""> Served as a link between HR Managers and vendors by handling questions and resolving system-related issues</span> </span> </span> </span> </span> </span> </span> </li> <li> Provide real-time process improvement feedback on key metrics and initiatives</li> <li> Successfully re-branded US HR Operations SharePoint site</li> <li> Business Unit project manager for RFI/RFP on Background Check and Drug Screen vendor</li> </ul> </span> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_911808368_2_598530992"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" format=""%m/%Y"" id=""911808368JSTD2""> 01/2014</span> <span>  to </span> <span class=""jobdates"" format=""%m/%Y"" id=""911808368EDDT2""> 05/2015</span> </span> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""911808368JTIT2""> IT, Marketing and Communications Co-op</span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""911808368COMP2"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808368JCIT2"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808368JSTA2"" itemprop=""addressRegion""> State</span> </span> <span class=""paddedline""> <span class=""jobline"" id=""911808368JDES2"" itemprop=""description""> <ul> <li> Posted new articles, changes and updates to corporate SharePoint site including graphics and visual communications.</li> <li> Researched and drafted articles and feature stories to promote company activities and programs.</li> <li> Co-edited and developed content for quarterly published newsletter.</li> <li> Provided communication support for internal and external events.</li> <li> Collaborated with Communication team, media professionals and vendors to determine program needs for print materials, web design and digital communications.</li> <li> Entrusted to lead product, service and software launches for Digital Asset Management tool, Marketing Toolkit website and Executive Tradeshows Calendar.</li> <li> Created presentations for management and executive approval to ensure alignment with corporate guidelines and branding.</li> <li> Maintained the MySikorsky SharePoint site and provided timely solutions to mitigate issues.آ آ آ آ </li> <li> Created story board and produced video for annual IT All Hands meeting.</li> </ul> </span> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_911808368_3_598530994"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" format=""%m/%Y"" id=""911808368JSTD3""> 10/2012</span> <span>  to </span> <span class=""jobdates"" format=""%m/%Y"" id=""911808368EDDT3""> 01/2014</span> </span> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""911808368JTIT3""> Relationship Coordinator/Marketing Specialist</span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""911808368COMP3"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808368JCIT3"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808368JSTA3"" itemprop=""addressRegion""> State</span> </span> <span class=""paddedline""> <span class=""jobline"" id=""911808368JDES3"" itemprop=""description""> <ul> <li> <span class=""""> Partnered with vendor to manage the in-house advertising program consisting of print and media collateral pieces. </span> </li> <li> <span class=""""> Coordinated pre-show and post-show activities at trade shows. </span> </li> <li> <span class=""""> Managed marketing campaigns to generate new business and to support partner and sales teams.</span> </li> <li> <span class=""""> <span class=""""> Ordered marketing collateral for meetings, trade shows and advisors.</span> </span> </li> <li> Improved, administered and modified marketing programs to increase product awareness.</li> <li> Assisted in preparing internal promotional publications, managed marketing material inventory and supervised distribution of publications to ensure high quality product output.</li> <li> Coordinated marketing materials including brochures, promotional materials and products.</li> <li> Partnered with graphic designers to develop appropriate materials and branding for brochures.</li> <li> Used tracking and reporting systems for sales leads and appointments.</li> </ul> </span> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_911808368_4_598533900"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" format=""%m/%Y"" id=""911808368JSTD4""> 09/2009</span> <span>  to </span> <span class=""jobdates"" format=""%m/%Y"" id=""911808368EDDT4""> 10/2012</span> </span> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""911808368JTIT4""> Assistant Head Teller</span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""911808368COMP4"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808368JCIT4"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808368JSTA4"" itemprop=""addressRegion""> State</span> </span> <span class=""paddedline""> <span class=""jobline"" id=""911808368JDES4"" itemprop=""description""> <ul> <li> <span class=""""> Received an internal audit score of <font color=""#000"" style=""color: rgb(0, 0, 0);""> 100</font> %. </span> </li> <li> <span class=""""> Performed daily and monthly audits of ATM machines and tellers.</span> </li> <li> <span class=""""> <span class=""""> Educated customers on a variety of retail products and available credit options.</span> </span> </li> <li> <span class=""""> <span class=""""> <span class=""""> Consistently met or exceeded quarterly sales goals</span> </span> </span> </li> <li> Promoted products and services to
+customers while maintaining company brand identity
+
+آ·آ آ آ آ 
+</li> <li> Implemented programs to achieve
+and exceed customer and company participation goalsآ 
+
+آ </li> <li> Organized company sponsored events on campus resulting in increased
+brand awareness
+
+آ·آ آ آ آ 
+</li> <li> Coached peers on
+the proper use of programs to improve work flow efficiency</li> <li> Utilized product knowledge to successfully sell
+to and refer clients based on individual needs</li> <li> Promoted marketing the grand opening
+of new branch locations to strengthen company brand affinity
+
+آ·آ آ آ آ  </li> <li> Organized company sponsored events
+resulting in increased brand awareness and improved sales
+
+آ·آ آ آ آ  </li> <li> Coached peers on the proper use of
+programs to increase work flow efficiency
+
+</li> </ul> </span> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_911808368_5_598599144"" itemscope="""" itemtype=""https://schema.org/Organization"" style=""padding-top:0px;""> <div class=""singlecolumn""> <span class=""paddedline""> <span class=""jobtitle"" id=""911808368JTIT5""> Senior Producer - 2014 SHU Media Exchange</span> </span> <span class=""paddedline"" itemscope="""" itemtype=""https://schema.org/postalAddress""> <span class=""companyname"" id=""911808368COMP5"" itemprop=""name""> Company Name</span> <span>  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808368JCIT5"" itemprop=""addressLocality""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808368JSTA5"" itemprop=""addressRegion""> State</span> </span> <span class=""paddedline""> <span class=""jobline"" id=""911808368JDES5"" itemprop=""description""> <div> <span class=""""> Planned and executed eventآ focusing on Connecticut's creative corridor, growth of industry and opportunities that come with development. Aآ </span> panel of industry professionals addressed topics related to media and hosted a question and answer session for approximately 110 attendees. Following the forum, guests were invited to engage in networking and conversation at a post-event reception.</div> </span> </span> </div> </div> </div> <div class=""section"" id=""SECTION_EDUC911808369"" style=""padding-top:0px;""> <div class=""heading""> <div class=""sectiontitle"" id=""SECTNAME_EDUC911808369""> Education</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_911808369_1_598530995"" itemscope="""" itemtype=""https://schema.org/EducationalOrganization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" id=""911808369GRYR1""> 2014</span> </span> <div class=""singlecolumn""> <span class=""paddedline"" itemprop=""description""> <span class=""degree"" id=""911808369DGRE1"" itemprop=""name""> Master of Arts</span> <span> : </span> <span class=""programline"" id=""911808369STUY1""> Corporate Communication &amp; Public Relations</span> </span> <span class=""paddedline""> <span class=""companyname companyname_educ"" dependency=""SCHO"" id=""911808369SCHO1"" itemprop=""name""> Sacred Heart University</span> <span class=""statesWrapper"">  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808369SCIT1""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808369SSTA1""> State</span> <span class=""joblocation jobstate"" id=""911808369SCNT1""> </span> </span> <span class=""paddedline""> <span class=""field"" id=""911808369FRFM1""> </span> </span> </div> </div> <div class=""paragraph"" id=""PARAGRAPH_911808369_2_598530996"" itemscope="""" itemtype=""https://schema.org/EducationalOrganization"" style=""padding-top:0px;""> <span class=""dates_wrapper""> <span class=""jobdates"" id=""911808369GRYR2""> 2013</span> </span> <div class=""singlecolumn""> <span class=""paddedline"" itemprop=""description""> <span class=""degree"" id=""911808369DGRE2"" itemprop=""name""> Bachelor of Arts</span> <span> : </span> <span class=""programline"" id=""911808369STUY2""> Relational Communication</span> </span> <span class=""paddedline""> <span class=""companyname companyname_educ"" dependency=""SCHO"" id=""911808369SCHO2"" itemprop=""name""> Western Connecticut State University</span> <span class=""statesWrapper"">  ï¼چ </span> <span class=""joblocation jobcity"" id=""911808369SCIT2""> City</span> <span> , </span> <span class=""joblocation jobstate"" id=""911808369SSTA2""> State</span> <span class=""joblocation jobstate"" id=""911808369SCNT2""> </span> </span> <span class=""paddedline""> <span class=""field"" id=""911808369FRFM2""> </span> </span> </div> </div> </div> <div class=""section"" id=""SECTION_SKLL911808371"" style=""padding-top:0px;""> <div class=""heading""> <div class=""sectiontitle"" id=""SECTNAME_SKLL911808371""> Skills</div> </div> <div class=""paragraph firstparagraph"" id=""PARAGRAPH_911808371_1_598531001"" style=""padding-top:0px;""> <div class=""field singlecolumn"" id=""911808371FRFM1""> Adobe Photoshop, ADP, Asset Management, branding, brochures, content, Customer Care, Final Cut Pro, graphics, graphic, HR, Illustrator, InDesign, Innovation, inventory, Lotus Notes, marketing, marketing materials, marketing material, materials, Microsoft Office, SharePoint, newsletter, presentations, process improvement, Project Management, promotional materials, publications, Quality, real-time, Recruitment, reporting, RFP, sales, stories, Employee Development, video, web design, website, articles</div> </div> </div> </div>",HR
+123456,"INFANT ANGELINE ROSE STEPHEN
+Boston, MA | (617) 749-5900 | stephen.in@northeastern.edu | linkedin.com/in/infant-angeline-rose
+Languages/Frameworks/Databases Python, R, SQL, GGplot2, Dplyr, Scikit-learn, Pandas, Numpy, MySQL
+Platforms RStudio, VSCode, Jupyter, Spyder, DataWrapper, Tableau, Flourish
+Introduction to Data Science University of Michigan
+Databases and SQL for Data Science IBM
+MS Excel: Analyzing and Visualizing Data Udemy
+Machine Learning and Data Science Zero to Mastery EDUCATION
+Northeastern University - College of Engineering (Boston, MA)
+Master of Science in Data Analytics Engineering
+Expected Aug 2023
+GPA: 3.67/4
+Relevant Coursework: Probability and Statistics, Computation and Visualization, Data Mining, Machine Learning, Data
+Management for Analytics
+Anna University - St. Josephâ€™s College of Engineering (Tamil Nadu, India)
+Bachelor of Engineering in Computer Science Engineering
+Jul 2020
+GPA: 7.58/10
+Relevant Coursework: Data Analytics, Probability and Queuing Theory, Database Management Systems
+TECHNICAL SKILLS
+PROFESSIONAL EXPERIENCE
+Project Trainee
+Ramco Systems Pvt Ltd
+Jan 2021 â€“ Jul 2021
+Tamil Nadu, India
+â€¢ Optimized working databases and took part in re-architecture and redesigning of the Sales Quote working of Aviation MRO,
+improving overall efficiency of the application by 90.2%
+â€¢ Collaborated with a senior manager in debugging and providing technical support to databases, resolving bug fixes, and
+performing relevant testing through various environments leading to an 80% improvement in client-side communication and
+efficiency
+â€¢ Initiated and coordinated in planning and re-architecture of Quote working database for Spanish clients reducing redundancies
+by 30%
+Systems Engineering Trainee
+Infosys Limited
+Jan 2020 â€“ Mar 2020
+Karnataka, India
+â€¢ Underwent extensive in-house training in SQL and passed out in the top 95th percentile
+â€¢ Mentored a group of five trainees, formulated and implemented an entity relationship model for social media marketing based
+on end-user requirements and specifications
+PROJECTS
+Prediction of Agricultural Crop Yield Aug 2020
+â€¢ Built a model comparing 6 different types of regressors and 2 different feature encoding methods to predict the amount of crop
+yield based on features gathered by domain knowledge
+â€¢ Tuned parameters and achieved an accuracy of 95.33% on predicting the amount of crop yield
+Loan Portfolio Analysis Nov 2021
+â€¢ Generated an advanced and interactive tableau dashboard with context and global filters, parameters and calculated fields
+analyzing how the company Lending Club issues loans and its interest rates
+â€¢ Manipulated 5,700,000+ records and 115 features extracting the necessary, useful, and building meaningful data
+Detecting Early Alzheimerâ€™s â€“ Pre-Diagnostic Model Aug 2020
+â€¢ Devised a machine learning model with 96% accuracy applying random forest algorithm helping the end-user informed about
+the risk of having Alzheimerâ€™s disease based on certain test scores such as MMSE and CDT
+â€¢ Developed a user interface web application using Flask, HTML, CSS, and Java Script delivering the result in 0.8 seconds
+CERTIFICATIONS
+OTHER ACTIVITIES
+Student Success Guide
+Northeastern university
+Nov 2021 - Current
+â€¢ Mentored 25+ student engaging and facilitating dialogue related to the needs of diverse student and staff populations,
+contributing to the University's commitment to diversity, equity, and inclusion, and student academic success and experience
+â€¢ Introduced 15+ technical program initiatives for the incoming students increasing the overall engagement by over 70% by
+organizing meetings to help the learners adapt to the new environment and help discover their passion and talent in the tech
+industry
+â€¢ Structured 1:1 meeting with each learner, having short reflection on weekly progress, and formulating goal-oriented plans",,
+,"Akshaya Mahesh Email: akshayamahesh26@gmail.com
+LinkedIn: www.linkedin.com/in/akshaya-mahesh-727balbc/ 78, Hillside Street, Boston MA 02120
+Github:  github.com/AkshayaMahesh
+Education
+. Northeastern University Boston, USA
+Master of Science - Data Science; GPA: 3.7 Sep 2021 - Expected May 2023
+Courses: Supervised Machine Learning, Unsupervised Machine Learning and Data Mining, Algorithms, Database Management Systems, Data Management Processing, Pattern Recognition and Computer Vision
+SRM Institute of Science and Technology Chennai, India
+Bachelor of Technology - Electronics and Communication Engineering; GPA: 8.76 Jun 2014 - May 2018
+Courses: Data Structures, Digital Image Processing, Linear Algebra, Probability and Statistics
+TECH SKILLS
+Languages + Python, R, SQL,
+Frameworks + Scikit-learn, Seaborn, Plotly, OpenCV, RShiny, TensorFlow, PyTorch, NLTK, Flask, NumPy,Pandas, MySQL, SQLite
+Machine Learning : Regression, Classifiaction, Neural Nets and Deep Learning, Clustering, Dimensionality Reduction,Resampling, Inferential Analysis, Predictive Analysis, and Exploratory Data Analysis
+Platforms & Tools : AWS, Tableau, Google Data Studio, Windows, RStudio, Jupyter Notebook, Colab, Office Tools
+WORK EXPERIENCE
+Khoury College of Computer Sciences Boston, MA
+Teaching Assistant (Part-Time) - Mathematics of Data Models Jan 2022 - Present
+Guiding students to understand basic concepts of linear algebra and statistics for performing machine learning, modeling
+and hypothesis testing of data
+Tutoring 100+ students via office hours and evaluating in class course assessments and projects of students
+Capgemini Chennai, India
+Software Engineer, Data Science and Analytics (Full-Time) Jun 2018 - Jul 2021
+Developed and implemented databases, data collection systems, data analytics and other strategies that optimized
+statistical efficiency and quality by 20%
+Spearheaded the first major effort to A/B test the companyâ€™s merchant portal page and optimized it for customer
+acquisition; resulted in a 7.5% increase in conversions
+Cleansed, Analysed and built a ML model utilizing GCP- BigTable, BigQuery, AutoML & Data Studio
+Designed weekly and monthly project status reports for various stakeholders, highlighting key constraints, if any, and
+ensuring timeliness of project deliverable, resulting in over 95% customer satisfaction rate.
+Customized various project specific valuable assets such as knowledge transfer documents, test plan, defect summary
+reports and lessons learnt documents, successfully delivering 7 releases involving UAT and regression testing.
+Managed and implemented test process, analyzed system requirements specifications and, developed test plans and test
+cases to verify actual results with expected results and improved test efficiency by 30%
+Performed data analysis, evaluated, developed and implemented business solutions as a part of SDLC cycle
+PROJECTS
+Content Clustering Online Encyclopedia Data | Python, NLTK, Scikit-learn, NumPy, Pandas, Matplotlib Oct 2022
+Preprocessed data using NLP techniques to remove outliers and performed tf-idf vectorization on the data
+Identified best model by training, testing machine learning models built based on variety of clustering algorithms and
+comparing metrics
+Article Tracking | SQLite, MySQL, R, AWS, Data Mining Jun 2022
+Parsed and extracted data from XML document to store 150k article records into a OLTP relational database using SQLite
+Established a star schema and realized a OLAP database using MySQL and creating cloud instances
+Mined database to perform analytical queries to visualize top 10 authors with most publications, journal with most articles
+Image Classification using Neural Networks | Python, NumPy, Matplotlib, PyTorch, Neural Networks Apr 2022
+Engineered, trained and computed accuracy of machine learning models built using Convolutional Neural Networks to
+classify images of dataset
+Achieved 90 % accuracy for ResNet model using ReLu layers and 70% for Deep Neural Network using data augmentation
+Classification on Heart Disease Dataset | Python, NumPy, Matplotlib, Scikit-learn, Seaborn Nov 2021
+Performed exploratory data analysis and developed classification models using Regression and Tree-based classifiers and
+computed modelsâ€™ evaluation metrics to predict heart disease risk
+Accomplished highest accuracy for Logistic Regression Classifier 81.08% among different models. Accuracy was further
+improved to 84.46% on performing best subset selection",,
